@@ -3,3 +3,5 @@ zippedData/im.db filter=lfs diff=lfs merge=lfs -text
 *.db filter=lfs diff=lfs merge=lfs -text
 im.db filter=lfs diff=lfs merge=lfs -text
 Data/im.db filter=lfs diff=lfs merge=lfs -text
+Data/im.db
+Data/im.db
