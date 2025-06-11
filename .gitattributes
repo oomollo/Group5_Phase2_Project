@@ -5,3 +5,5 @@ im.db filter=lfs diff=lfs merge=lfs -text
 Data/im.db filter=lfs diff=lfs merge=lfs -text
 Data/im.db
 Data/im.db
+Data/rotten_tomatoes_critic_reviews.csv filter=lfs diff=lfs merge=lfs -text
+Data/rotten_tomatoes_critic_reviews.csv
